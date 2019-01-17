@@ -6,7 +6,7 @@ const prefix = "r#";
 // Toxic Codes
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("Rainbow,𝕄𝕠𝟛𝔾𝕫ℤ𝕒.",{type: 'WATCHING'});
+          client.user.setActivity("𝕄𝕠𝟛𝔾𝕫ℤ𝕒",{type: 'WATCHING'});
   
   });// Toxic Codes
 client.on("message", message => {
